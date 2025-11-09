@@ -27,5 +27,7 @@
 
 ![Preview](https://i.imgur.com/zYMZrxs.png)
 
+## 〢 Contact
+> Mail: cavord@proton.me
 
 > [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/RkWXSNF6Q8)
