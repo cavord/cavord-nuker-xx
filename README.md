@@ -25,7 +25,9 @@
 
 ## 〢 Preview
 
-![Preview](https://i.imgur.com/zYMZrxs.png)
+![Preview](https://github.com/user-attachments/assets/80b43acb-30f0-44ef-add4-112b6b1fee94)
+
+https://github.com/user-attachments/assets/eaedf428-9d76-4a84-9681-3c536c57a3b6
 
 ## 〢 Contact
 > Mail: cavord@proton.me
