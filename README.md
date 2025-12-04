@@ -31,5 +31,3 @@ https://github.com/user-attachments/assets/eaedf428-9d76-4a84-9681-3c536c57a3b6
 
 ## 〢 Contact
 > Mail: cavord@proton.me
-
-> [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/RkWXSNF6Q8)
