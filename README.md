@@ -8,7 +8,7 @@
 
 - [x] Auto. ( 2 -> 5 )
 - [x] Change name.
-- [x] Delete channels.
+- [x] Delete channels.             - [x] Delete channels.
 - [x] Create channels.
 - [x] Webhook spam.
 - [x] Massban.
