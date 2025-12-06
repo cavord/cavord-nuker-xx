@@ -17,7 +17,7 @@
 
 ## 〢 Tutorial
 
-1. Download the `.exe` file and run`.exe` file 
+1. Download the `.exe` file and run`.exe` file.
 2. Enter your bot token and the guild ID you want to nuke and use.
  - * __Create bot here__: https://discord.com/developers/applications
 
