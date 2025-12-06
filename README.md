@@ -6,26 +6,27 @@
 
 ## 〢 Features
 
-- [x] Auto. ( 2 -> 5 )
-- [x] Change name.
-- [x] Delete channels. 
-- [x] Create channels.
-- [x] Webhook spam.
-- [x] Massban.
-- [x] Massrole. (delete -> create)
-- [x] Delete emoji & sticker.
+- [x] __Auto ( 2 -> 5 )__ - Automatically executes multiple nuking actions in sequence.
+- [x] __Change name__ - Instantly rename the target Discord server.
+- [x] __Delete channels__ - Remove all existing channels quickly and efficiently.
+- [x] __Create channels__ - Generate multiple new channels at high speed.
+- [x] __Webhook spam__ - Create and spam webhooks with rapid-fire messages.
+- [x] __Massban__ - Ban all members that the bot has permission to ban.
+- [x] __Massrole__ - Delete all roles, then generate new ones automatically.
+- [x] __Delete emoji & sticker__ - Remove every emoji and sticker from the server.
 
 ## 〢 Tutorial
 
 1. Download the `.exe` file and run`.exe` file 
 2. Enter your bot token and the guild ID you want to nuke and use.
+ - * __Create bot here__: https://discord.com/developers/applications
 
 > [!NOTE]
 > Avoid using the auto and webhook spam feature excessively.
 
 ## 〢 Preview
 
-![Preview](https://github.com/user-attachments/assets/80b43acb-30f0-44ef-add4-112b6b1fee94)
+![Preview](https://github.com/user-attachments/assets/ec3e2dac-1948-4c06-9098-a05e7ac43ced)
 
 https://github.com/user-attachments/assets/eaedf428-9d76-4a84-9681-3c536c57a3b6
 
