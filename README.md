@@ -26,7 +26,7 @@
 
 ## 〢 Preview
 
-![Preview](https://github.com/user-attachments/assets/ec3e2dac-1948-4c06-9098-a05e7ac43ced)
+![Preview](https://github.com/user-attachments/assets/84bbc980-5685-42ee-a4fb-7acb88840fcf)
 
 https://github.com/user-attachments/assets/eaedf428-9d76-4a84-9681-3c536c57a3b6
 
