@@ -11,9 +11,9 @@
 - [x] __Delete channels__ - Remove all existing channels quickly and efficiently.
 - [x] __Create channels__ - Generate multiple new channels at high speed.
 - [x] __Webhook spam__ - Create and spam webhooks with rapid-fire messages.
-- [x] __Massban__ - Ban all members that the bot has permission to ban.
-- [x] __Massrole__ - Delete all roles, then generate new ones automatically.
-- [x] __Delete emoji & sticker__ - Remove every emoji and sticker from the server.
+- [x] __Massbans__ - Ban all members that the bot has permission to ban.
+- [x] __Massroles__ - Delete all roles, then generate new ones automatically.
+- [x] __Delete emojis & stickers__ - Remove every emoji and sticker from the server.
 
 ## 〢 Tutorial
 
@@ -26,7 +26,7 @@
 
 ## 〢 Preview
 
-![Preview](https://github.com/user-attachments/assets/84bbc980-5685-42ee-a4fb-7acb88840fcf)
+![Preview](https://github.com/user-attachments/assets/e96931f8-0401-4be6-90ad-4eeec1a90e0e)
 
 https://github.com/user-attachments/assets/eaedf428-9d76-4a84-9681-3c536c57a3b6
 
